@@ -1,0 +1,12 @@
+{
+  "name": "multichess-webkit",
+  "version": "1.0.0",
+  "description": "MMOCG",
+  "main": "index.html",
+  "author": "tbk",
+  "license": "MIT",
+  "scripts": {
+    "start": "nwjs .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
