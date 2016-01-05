@@ -1,10 +1,7 @@
-multichess-webkit
+multichess-desktop
 =================
 
 ```
-npm install nwjs -g
-```
-
-```
+npm install
 npm start
 ```
